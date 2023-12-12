@@ -2,6 +2,1265 @@
   text-align: center;
 }
 
+#onboarding {
+width: 390px;
+height: 1025px;
+top: 2170px;
+left: 1556px;
+
+}
+
+#Frame {
+width: 34.63px;
+height: 2.73px;
+top: 7.29px;
+left: 177.69px;
+
+}
+
+.Reactangle {
+width: 34.63px;
+height: 2.73px;
+background: rgba(224, 224, 224, 1);
+
+}
+
+#Frame14094 {
+width: Hug (342px);
+height: Hug (752px);
+top: 90px;
+left: 24px;
+gap: 32px;
+
+}
+
+#Frame14073 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+
+}
+
+.T text {
+width: 170px;
+height: 24px;
+
+}
+
+.Content {
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.email {
+width: 119px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+
+}
+
+.Frame14065 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+
+}
+ .T text {
+width: 188px;
+height: 24px;
+
+ }
+
+.content {
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field-size team {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+justify: space-between;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.parent component {
+width: 53px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Iconl {
+width: 24px;
+height: 24px;
+}
+
+.Icon2 {
+width: 24px;
+height: 24px;
+padding: 0px, 5px, 0px, 5px;
+}
+
+.Frame14076 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.T text {
+width: 237px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username or email {
+width: 218px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Frame14078 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+
+}
+
+.Capacity {
+width: 71px;
+height: 24px;
+}
+
+.content {
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username or email {
+width: 166px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Frame14077 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.Amenities {
+width: 79px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username or email {
+width: 146px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Frame14067 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.Availability Status  {
+width: 140px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field-size team {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+justify: space-between;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.Select team size {
+width: 48px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Icon1 {
+  width: 24px;
+  height: 24px;
+  
+}
+
+.Arrow {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Frame14075 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.Notes {
+width: 105px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username or email {
+width: 132px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Inventory {
+width: 79px;
+height: 32px;
+top: 28px;
+left: 156px;
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: -0.5px;
+text-align: left;
+background: rgba(17, 24, 39, 1);
+}
+
+.Frame14116 {
+width: Hug (342px);
+height: Hug (127px);
+top: 874px;
+left: 24px;
+gap: 15px;
+}
+
+.button {
+  width: Fixed (342px);
+height: Fixed (56px);
+padding: 16px, 24px, 16px, 24px;
+border-radius: 16px;
+border: 1px;
+gap: 12px;
+background: linear-gradient(0deg, #F9FAFB, #F9FAFB),
+linear-gradient(0deg, #2FA551, #2FA551);
+border: 1px solid rgba(47, 165, 81, 1);
+animation-duration: 0ms;
+}
+
+.table {
+width: 53px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: rgba(47, 165, 81, 1);
+}
+
+.button {
+width: Fixed (342px);
+height: Fixed (56px);
+padding: 16px, 24px, 16px, 24px;
+border-radius: 16px;
+gap: 12px;
+background: rgba(47, 165, 81, 1);
+}
+
+.table {
+width: 36px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: rgba(249, 250, 251, 1);
+}
+
+.Base {
+width: 390px;
+height: 920px;
+border-radius: 16px, 16px, 0px, 0px;
+background: rgba(255, 255, 255, 1);
+}
+
+#Add Business {
+width: 390px;
+height: 1302px;
+top: 2170px;
+left: 1010px;
+background: rgba(255, 255, 255, 1);
+}
+
+.Frame {
+width: Hug (142px);
+height: Hug (32px);
+top: 1158px;
+left: 24px;
+gap: 10px;
+animation-duration: 0ms;
+}
+
+.Done Button {
+width: Fill (142px);
+height: Hug (32px);
+padding: 4px, 10px, 4px, 10px;
+border-radius: 16px;
+border: 1px;
+gap: 10px;
+background: linear-gradient(0deg, #F9FAFB, #F9FAFB),
+linear-gradient(0deg, #2FA551, #2FA551);
+border: 1px solid rgba(47, 165, 81, 1);
+}
+
+.Frame13977 {
+width: Hug (122px);
+height: Hug (24px);
+gap: 4px;
+}
+
+.round-add-button {
+width: 24px;
+height: 24px;
+padding: 1px;
+}
+
+.Group {
+width: 22px;
+height: 22px;
+top: 1px;
+left: 1px;
+
+}
+
+.Vector {
+width: 10.19px;
+height: 10.19px;
+top: 6.91px;;
+left: 6.91px;
+background: rgba(47, 165, 81, 1);
+}
+
+.Vector {
+width: 22px;
+height: 22px;
+top: 1px;
+left: 1px;
+background: rgba(47, 165, 81, 1);
+}
+
+.Tab Item{
+background: rgba(47, 165, 81, 1);
+font-family: DM Sans;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: rgba(47, 165, 81, 1);
+}
+
+.Frame14116 {
+width: Hug (342px);
+height: Hug (56px);
+top: 1222px;
+left: 24px;
+gap: 15px;
+}
+
+.button {
+width: Fixed (342px);
+height: Fixed (56px);
+padding: 16px, 24px, 16px, 24px;
+border-radius: 16px;
+gap: 12px;
+background: rgba(229, 231, 235, 1);
+}
+
+.tabel {
+width: 160px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: rgba(156, 163, 175, 1);
+}
+
+.button {
+width: Fixed (342px);
+height: Fixed (56px);
+padding: 16px, 24px, 16px, 24px;
+border-radius: 16px;
+border: 1px;
+gap: 12px;
+background: linear-gradient(0deg, #F9FAFB, #F9FAFB),
+linear-gradient(0deg, #2FA551, #2FA551);
+border: 1px solid rgba(47, 165, 81, 1);
+animation-duration: 0ms;
+}
+
+.tabel {
+width: 111px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: rgba(47, 165, 81, 1);
+}
+
+.Frame14064 {
+width: Hug (342px);
+height: Hug (846px);
+top: 288px;
+left: 24px;
+gap: 24px;
+}
+
+.Reactangle2550 {
+width: 342px;
+height: 1px;
+background: rgba(229, 231, 235, 1);
+}
+
+.Frame14082 {
+width: Hug (342px);
+height: Hug (796px);
+gap: 12px;
+}
+
+.Frame14061 {
+width: Hug (340px);
+height: Hug (24px);
+gap: 180px;
+
+}
+
+.Businss Information {
+width: 136px;
+height: 20px;
+font-family: DM Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Icon3 {
+width: 24px;
+height: 24px;
+angle: 180 deg;
+}
+
+.Icon4 {
+width: 24px;
+height: 24px;
+top: 24px;
+left: 24px;
+padding: 0px, 5px, 0px, 5px;
+angle: 180 deg;
+}
+
+.Arrow {
+width: 14px;
+height: 7px;
+top: 15.5px;
+left: 19px;
+border: 1.5px;
+angle: 180 deg;
+border: 1.5px solid rgba(19, 15, 38, 1);
+}
+
+.Stoke1 {
+width: 14px;
+height: 7px;
+top: 15.5px;
+left: 19px;
+border: 1.5px;
+angle: 180 deg;
+background: rgba(19, 15, 38, 1);
+border: 1.5px solid rgba(19, 15, 38, 1);
+}
+
+.Frame14060 {
+width: 342px;
+height: 80px;
+gap: 8px;
+}
+
+.Icon5 {
+width: 24px;
+height: 24px;
+top: 45px;
+left: 302px;
+
+
+}
+.Icon6 {
+width: 24px;
+height: 24px;
+padding: 0px, 5px, 0px, 5px;
+}
+
+.Arrow {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Stocke2 {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+background: rgba(31, 41, 55, 1);
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+top: 32px;
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.email {
+width: 108px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+.property {
+width: 111px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.Frame14082 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+
+
+}
+
+.property name {
+width: 116px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.email {
+width: 109px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Frame14068 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.phone number {
+width: 114px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username {
+width: 111px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Frame14069 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+} 
+
+.Email address {
+width: 110px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username2 {
+width: 108px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+.Frame14081 {
+width: Hug (342px);
+height: Hug (392px);
+gap: 24px;
+}
+ 
+.Frame14067 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.Address {
+width: 65px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.Email {
+width: 188px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Frmae14065 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.State {
+width: 42px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+justify: space-between;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.Select size {
+width: 86px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Icon6 {
+width: 24px;
+height: 24px;
+
+
+}
+ .Icon7 {
+width: 24px;
+height: 24px;
+padding: 0px, 5px, 0px, 5px;
+}
+
+.Arrow {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Stocke3 {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+background: rgba(31, 41, 55, 1);
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Frame14066 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.City {
+width: 33px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+justify: space-between;
+background: rgba(229, 231, 235, 1);
+border: 2px solid rgba(229, 231, 235, 1);
+}
+
+.Select team size {
+width: 75px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(31, 41, 55, 1);
+}
+
+.Icon8 {
+  width: 24px;
+  height: 24px;
+  
+}
+
+.Icon9 {
+width: 24px;
+height: 24px;
+padding: 0px, 5px, 0px, 5px;
+}
+
+.Arrow {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Stocke4 {
+width: 14px;
+height: 7px;
+top: 8.5px;
+left: 5px;
+border: 2px;
+background: rgba(31, 41, 55, 1);
+border: 2px solid rgba(31, 41, 55, 1);
+}
+
+.Frome14062 {
+width: Hug (342px);
+height: Hug (80px);
+gap: 8px;
+}
+
+.phone number {
+width: 64px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(55, 65, 81, 1);
+}
+
+.single-input-field {
+width: Fixed (342px);
+height: Hug (48px);
+padding: 12px, 16px, 12px, 16px;
+border-radius: 16px;
+border: 2px;
+gap: 10px;
+background: rgba(243, 244, 246, 1);
+border: 2px solid rgba(243, 244, 246, 1);
+}
+
+.Username3 {
+width: 81px;
+height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+background: rgba(156, 163, 175, 1);
+}
+
+.Reactangle2551 {
+width: 342px;
+height: 1px;
+background: rgba(229, 231, 235, 1);
+}
+
+#Button {
+width: 342px;
+height: 140px;
+top: 118px;
+left: 24px;
+}
+
+.Frame14067 {
+width: Hug (70px);
+height: Hug (67px);
+top: 36px;
+left: 136px;
+gap: 4px;
+
+
+}
+
+.bg {
+width: 342px;
+height: 140px;
+border: 1px;
+background: linear-gradient(0deg, #E5E7EB, #E5E7EB),
+linear-gradient(0deg, #FFE9F6, #FFE9F6);
+border: 1px solid rgba(229, 231, 235, 1);
+}
+
+#Frame14053 {
+width: 290px;
+height: 30px;
+top: 59px;
+left: 19px;
+padding: 0px, 24px, 0px, 0px;
+gap: 83px;
+
+
+}
+
+.App-header {
+  width: Fill (1,440px);
+  height: Hug (96px);
+  padding: 24px, 80px, 24px, 80px;
+  gap: 202px;
+  
+
+}
+
+.Section {
+width: Fill (1,440px);
+height: Hug (1,752px);
+padding: 0px, 80px, 0px, 80px;
+border: 0px, 0px, 1px, 0px;
+}
+
+.section text {
+width: Fixed (1,280px);
+height: Hug (1px);
+gap: 24px;
+}
+
+
+.plans{
+width: Hug (1,440px);
+height: Hug (869px);
+padding: 80px, 81px, 80px, 81px;
+gap: 10px;
+
+}
+.Frame2327 {
+width: Hug (1,278px);
+height: Hug (709px);
+gap: 40px;
+}
+
+.Frame2326 {
+width: Hug (331px);
+height: Hug (92px);
+gap: 10px;
+}
+
+#Plans {
+width: 1278px;
+height: 577px;
+padding: 0px, 1.63px, 0px, 45.38px;
+}
+
+.Frame2325 {
+width: Hug (1,231px);
+height: Hug (577px);
+top: 0.2px;
+left: 45.38px;
+gap: 32px;
+}
+
+#Duo Basic {
+width: 199px;
+height: 577px;
+padding: 37px, 29px, 148px, 29px;
+}
+
+.Frame2324{
+width: Fixed (141px);
+height: Hug (392px);
+top: 37px;
+left: 29px;
+gap: 25px;
+}
+
+.Frame2323 {
+width: Fill (141px);
+height: Hug (392px);
+gap: 28px;
+}
+
+.item-list {
+width: Fill (141px);
+height: Hug (326px);
+gap: 12px;
+}
+.list-item with {
+width: Hug (52px);
+height: Hug (22px);
+border-radius: 20px;
+gap: 8px;
+}
+
+#Duo Basic {
+width: 312px;
+height: 577px;
+padding: 33.8px, 27.38px, 35.2px, 25.63px;
+border: 1px;
+background: rgba(192, 192, 192, 1);
+border: 1px solid rgba(192, 192, 192, 1);
+}
+
+#Duo Basic {
+width: 312px;
+height: 577px;
+padding: 33.8px, 27.38px, 35.2px, 25.63px;
+border: 1px;
+background: rgba(192, 192, 192, 1);
+border: 1px solid rgba(192, 192, 192, 1);
+}
+
+
+.Frame2325 {
+width: Fixed (259px) ;
+height: Fixed (508px);
+top: 33.8px;
+left: 25.63px;
+justify: space-between;
+}
+
+#Duo Basic {
+width: 312px;
+height: 577px;
+padding: 33.8px, 27.38px, 35.2px, 25.63px;
+border: 1px;
+background: rgba(192, 192, 192, 1);
+border: 1px solid rgba(192, 192, 192, 1);
+
+}
+.content { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+}
+.item{
+  background-color: #f4f4f4;
+  border: ipx solid #ddd;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -28,6 +1287,33 @@
   color: #61dafb;
 }
 
+.Sign-up {
+  width: 390px;
+height: 940px;
+top: 2170px;
+left: 512px;
+background: rgba(255, 255, 255, 1);
+}
+
+#sign-in {
+  width: 390px;
+height: 844px;
+top: 2170px;
+left: 44px;
+background: rgba(255, 255, 255, 1);
+
+}
+
+#sign-in {
+  width: 390px;
+height: 844px;
+top: 2170px;
+left: -412px;
+padding: 0px, 0px, 399px, 0px;
+background: rgba(255, 255, 255, 1);
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +1322,4 @@
     transform: rotate(360deg);
   }
 }
+
